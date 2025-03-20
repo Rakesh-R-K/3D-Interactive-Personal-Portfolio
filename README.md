@@ -22,7 +22,7 @@
 
 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/Rakesh-R-K/3D-Interactive-Personal-Portfolio.git
 cd your-portfolio
 ```
 
