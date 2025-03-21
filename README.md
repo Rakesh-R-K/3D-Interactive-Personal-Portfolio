@@ -39,11 +39,9 @@ npm start
 4️⃣ **Open in Browser**
 Visit `http://localhost:3000` to see the portfolio in action! 🎨
 
-## 🚀 Deployment
-- **Frontend:** Deploy on **Vercel** or **Netlify**
 
 ## 📌 Future Enhancements
-- AI-powered chatbot for portfolio queries
+- Implementing Backend with MERN or MEAN Technology
 - WebGL shader effects for enhanced 3D experience
 - Admin panel for project/blog management
 
