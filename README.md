@@ -9,6 +9,7 @@
 - **Three.js** - 3D elements and animations
 - **GSAP** - Smooth transitions and effects
 - **Tailwind CSS** - Responsive styling
+- **EmailJS** - Send emails directly from the client side
 
 ## ✨ Features
 - **Interactive 3D Elements** powered by Three.js
